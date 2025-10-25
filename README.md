@@ -57,6 +57,29 @@
 | DB    |                                |
 | 디자인패턴 |        |
 
+--- 
+
+### 알고리즘
+### **🔹 第1週: 基本概念 & 配列探索**
+
+- 📌 **理論学習**: Arrays & Hashing (ハッシュ、配列探索の手法)
+    
+    ![スクリーンショット 2025-03-05 17.06.26.png](attachment:ed326b6c-80bb-44ee-bd0c-925a51d99206:スクリーンショット_2025-03-05_17.06.26.png)
+    
+
+📌 **問題演習**:
+
+1. https://leetcode.com/problems/contains-duplicate/description/
+2. https://leetcode.com/problems/valid-anagram/description/
+3. https://leetcode.com/problems/two-sum/description/
+4. https://leetcode.com/problems/group-anagrams/description/
+5. https://leetcode.com/problems/top-k-frequent-elements/description/
+6. https://leetcode.com/problems/encode-and-decode-tinyurl/description/
+7. https://leetcode.com/problems/product-of-array-except-self/description/
+8. https://leetcode.com/problems/valid-sudoku/description/
+9. https://leetcode.com/problems/longest-consecutive-sequence/description/
+- 追加問題: Leetcode75
+
 
 ### 💡 기타 규칙 및 약속
 
