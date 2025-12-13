@@ -82,6 +82,50 @@ https://github.com/VSFe/Tech-Interview
 9. https://leetcode.com/problems/longest-consecutive-sequence/description/
 - 追加問題: Leetcode75
 
+### **🔹 第2週: ツーポインター & スタック**
+
+📌 **理論学習**: Two Pointers & Stack (Slow/Fast, LIFO)
+
+📌 **問題演習**:
+
+- LeetCode 75:
+    - https://leetcode.com/problems/valid-palindrome/description/
+    - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+    - https://leetcode.com/problems/3sum/
+    - https://leetcode.com/problems/container-with-most-water/
+    - https://leetcode.com/problems/trapping-rain-water/description/
+    - https://leetcode.com/problems/valid-parentheses/description/
+    - https://leetcode.com/problems/min-stack/description/
+    - https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
+    - https://leetcode.com/problems/daily-temperatures/description/
+    - https://leetcode.com/problems/car-fleet/
+    - https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+- 追加問題:
+
+---
+
+### **🔹 第3週: 二分探索 & スライディングウィンドウ**
+
+📌 **理論学習**: Binary Search (Lower/Upper Bound)、Sliding Window
+
+📌 **問題演習**:
+
+- LeetCode 75:
+    - https://leetcode.com/problems/binary-search/
+    - https://leetcode.com/problems/search-a-2d-matrix/description/
+    - https://leetcode.com/problems/koko-eating-bananas/description/
+    - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+    - https://leetcode.com/problems/search-in-rotated-sorted-array/
+    - https://leetcode.com/problems/time-based-key-value-store/
+    - https://leetcode.com/problems/median-of-two-sorted-arrays/
+    - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+    - https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+    - https://leetcode.com/problems/longest-repeating-character-replacement/description/
+    - https://leetcode.com/problems/permutation-in-string/
+    - https://leetcode.com/problems/minimum-window-substring/
+    - https://leetcode.com/problems/sliding-window-maximum/
+- 追加問題:
+
 
 ### 💡 기타 규칙 및 약속
 
